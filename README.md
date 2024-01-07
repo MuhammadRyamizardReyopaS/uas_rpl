@@ -18,4 +18,4 @@ Kelas : TI22A2
 ## 5. Keluar
 ![img](https://github.com/Ryamizar/uas_rpl/blob/main/foto1.PNG)
 ## Usecase 
-![img](https://github.com/Ryamizar/uas_rpl/blob/main/foto5.PNG)
+![img](
